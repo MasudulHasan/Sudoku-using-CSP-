@@ -1,2 +1,2 @@
 # Sudoku-using-CSP-
-We used CSP techniques to solve Sudoku. 
+We used CSP techniques to solve Sudoku. Sudoku: The objective is to fill a 9×9 grid with digits so that each column, each row, and each of the nine 3×3 sub-grids that   compose   the   grid   (also   called   "boxes",   "blocks", "regions", or "sub-squares") contains all of the digits from 1 to 9. So,  For sudoku, the additional constraint is that each of the nine boxes contains all of the digits from 1 to 9.
